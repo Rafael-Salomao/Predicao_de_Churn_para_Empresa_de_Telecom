@@ -1,5 +1,9 @@
 # Predicao_de_Churn_para_Empresa_de_Telecomunicacoes
 
+<p align="center">
+  <img width="460" height="300" src="imagem01.png">
+</p>
+
 ## 1.0 Introdução
 
 O churn de clientes refere-se ao ciclo natural de negócios de perder e adquirir clientes. Toda empresa – não importa a qualidade de seus produtos ou atendimento ao cliente – experimenta churn. De um modo geral, quanto menos churn você tiver, mais clientes você manterá.
