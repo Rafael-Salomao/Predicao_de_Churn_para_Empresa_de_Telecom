@@ -1,7 +1,7 @@
 # Predicao_de_Churn_para_Empresa_de_Telecomunicacoes
 
 <p align="center">
-  <img width="460" height="300" src="imagem01.png">
+  <img width="600" height="300" src="imagem01.png">
 </p>
 
 ## 1.0 Introdução
